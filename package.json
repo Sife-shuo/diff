@@ -1,0 +1,12 @@
+{
+  "name": "diffed",
+  "version": "1.0.1",
+  "description": "a diff tool",
+  "main": "diff.js",
+  "keywords": ["diff"],
+  "bin": {
+    "diffed": "./cli.js"
+  },
+  "author": "Sifer",
+  "license": "MIT"
+}
