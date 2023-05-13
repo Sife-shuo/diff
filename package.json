@@ -1,6 +1,6 @@
 {
   "name": "diffed",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "a diff tool",
   "main": "diff.js",
   "keywords": ["diff"],
